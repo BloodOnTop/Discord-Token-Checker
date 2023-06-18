@@ -26,3 +26,4 @@
 This is one of my first JavaScript projects, I am not responsible for your actions using this script. This script was made for educational purposes.
 
 x
+
