@@ -17,7 +17,7 @@ function check_token(token) {
     else if (status_code == 200) {
         console.log("Good token:", token)
         const content = token + "\n";
-        fs.appendFile('Good.txt', content, err => {
+        fs.appendFile('good.txt', content, err => {
             if (err) {
               console.log("[!] Error saving good token to file.")
               return
