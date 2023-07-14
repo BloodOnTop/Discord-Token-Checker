@@ -1,2 +1,2 @@
-node token_checker.js
+npm i line-reader xmlhttprequest && node index.js
 PAUSE
